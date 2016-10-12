@@ -1,2 +1,2 @@
 # AmtConsultoria
-App para institucional da AMT Consultoria
+App institucional da AMT Consultoria
